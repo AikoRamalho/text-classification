@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tribal-pad-390501",
+  "private_key_id": "ee1f8f9225cb9fbfcba673bcb8a4006fd5791cf5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNERhuGak7LVDC\nT+NRng1dMVzMFDR03/+G1/KkgU90VBUwBVvmCmn6OK8mGkXODVf+Mah6gJEhBdqY\nmvlwXMiXU8VtQmWX0GYPBuCqSb1UI61y0enwQ9cwcdLlZ1X/08znB6ZZsC7sbTlj\nJgALfmS9hU8+ucgmfr6yLpvmEJL7PuAs8ZCn0y+nhNMSBiUp67QCMFrjmCquRa/W\nGpGdLAstpYFckMsotBLQqtVGtnfnHzVhoXi0UeH/NJU78Lb+R2Bz5Kn0zafOFE4f\nJXOw2fCDngsESIVPHnd+S1LdB4tG2RxRgYm8Zvrr3UdaYjUBEmckMIl25kmp3ZzR\n8tsQWCeZAgMBAAECggEAF+qsVOxiWg9giBVB0eJlWyXFmS8axq78lHjT4WqwFSW1\nUucxscKVva/zGBdvutPd1ZHHQf++u1XR/joWLOP6OVfhWtkdPtw9FXKh0BVA9X04\nCMXIryzdVNAThMPcm4tmC8xq+n1Js1mAV4xHiStUeqJZsWWPpuEpxS1sTpkERnbd\n3FKei2sMJTkxkbuRRJnNDaAMbCjP1CQ8rJd06xnFQyqUu9eMeXCq9eujDrPOHdL6\nW568fI+lceh8iVFb5nVVsm+JAhIBmX/9DnrLqOiP5JOY6mUG35HOeLxaBCcDlDTY\n0xlj5f0lxEPeYj+lrR4PxDA7weK3TB6stFIMSC7eZQKBgQC+Vyqm1J2SDRa3U6v4\nHx+zerOy+TLiQs70eW2ZyjwVAdaIi/qLnI7sk8P3KjJIv419BWQo3yh6lqcAN5CB\nRCy3qM01QxsrmG4x/EU8z16+xZTNsMJOYmuMcft672XGSqm97Wlu17eH5JMI+2+l\nmbhLnHtnaX1Tk4t7QOlscWsJrQKBgQC9upok/vQ3SIz5j2H1JNpr33qgmIBX4uID\nyRj3a2GJ/VdLYR66ayG2haXAjKRrwe7ghaPC3+aj9hZsBzfGojlMcCvsEmxgj9AQ\nXRnAuns9PGdDygHfwGsObLJj2SwFCrx/bOhcbruEKReHoPMmQAj1Zj4MOat+6Yyv\nUYiY8fgrHQKBgDP+/eDLLixKtQzpp43FetR9zX8zwim7FGwGi+E6NMWMVf3BN3VS\nFF0eVKc9eLUU1uLzSRQ9OgKbCw3tH+WgKRMW4tAM/+wd3OR8xLFC+N/me6rhAYOG\nMVkRfiBsK4JKvSnsJCQqe7F8yInonexAHO9S1Qc/8wOUx8KozdtY9GOVAoGAeU/H\nH8ClBnQtL6SuTcCyqCbMkcLwzUEUorcCb7EJPOHv3xLKQwgdFkd+JA/JUd0+j/Dj\nNMdVAaFn1MsIrskrOeS/MMLW6ScLMmtU/BZAlnb40C9p41d1HFQD/DPwIYkr3Y4V\nRITJAUgE84PF9L8c+0vUgJyfOxa6DZ9kZ+bPd0ECgYA6bcF7Rek5uHpAsVs9hAH5\nNSF7NHEYHZ0exBc68MrQhwgPXuqPTNk4DDrxohzyDRKOqmtl4tQIS/GrigOwskQe\n5wmQp/1nbf4L9RPzQLCUZ6s25yH1rIYdpE2pS5L/KmgNa/dSKYYJMWynVB1CEa2q\ns8lqFz9jHQlLlRmO1rKgPw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "conta-532@tribal-pad-390501.iam.gserviceaccount.com",
+  "client_id": "109510099820056079774",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conta-532%40tribal-pad-390501.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
